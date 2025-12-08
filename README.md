@@ -3,15 +3,15 @@
 
 ## The pipeline for PAT dual-domain data synthesis
 
-![image1](https://github.com/yqx7150/PAT-DDS/tree/main/1.png)
+![image1](1.png)
 
 ## Synthetic mouse abdominal images
 
-![image2](https://github.com/yqx7150/PAT-DDS/tree/main/2.png)
+![image2](2.png)
 
 ## Synthetic mouse abdominal sinograms
 
-![image3](https://github.com/yqx7150/PAT-DDS/tree/main/3.png)
+![image3](3.png)
 
 
 ### Other Related Projects
