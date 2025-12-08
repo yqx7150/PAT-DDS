@@ -7,11 +7,11 @@
 
 ## Synthetic mouse abdominal images
 
-![image2](2.png)
+![image2](2.jpg)
 
 ## Synthetic mouse abdominal sinograms
 
-![image3](3.png)
+![image3](3.jpg)
 
 
 ### Other Related Projects
